@@ -26,7 +26,7 @@
 ![](https://black.readthedocs.io/en/stable/_static/license.svg)
 
 ## Updates
-- **20 June, 2025**: :boom::boom:  Our paper "SSP-SAM: SAM with Semantic-Spatial Prompt for Referring Image Segmentation" has been submitted to IEEE Transactions on Circuits and Systems for Video Technology (TCSVT).
+- **20 June, 2025**: :boom::boom:  Our paper "SSP-SAM: SAM with Semantic-Spatial Prompt for Referring Referring Segmentation" has been submitted to IEEE Transactions on Circuits and Systems for Video Technology (TCSVT).
 
 This repository contains the **official implementation** and **checkpoints** of the following paper:
 
