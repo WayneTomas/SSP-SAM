@@ -30,7 +30,7 @@
 
 This repository contains the **official implementation** and **checkpoints** of the following paper:
 
-> **Context Disentangling and Prototype Inheriting for Robust Visual Grounding**<br>
+> **SSP-SAM: SAM with Semantic-Spatial Prompt for Referring Image Segmentation**<br>
 > 
 >
 > **Abstract:** *The Segment Anything Model (SAM) excels at general image segmentation but has limited ability to understand natural language, which restricts its direct application in Referring Expression Segmentation (RES). Toward this end, we propose SSP-SAM, a framework that fully utilizes SAM’s segmentation capabilities by integrating a Semantic-Spatial Prompt (SSP) encoder. Specifically, we incorporate both visual and linguistic attention adapters into the SSP encoder, which highlight salient objects within the visual features and discriminative phrases within the linguistic features. This design enhances the referent representation for the prompt generator, resulting in high-quality SSPs that enable SAM to generate precise masks guided by language. Although not specifically designed for Generalized RES (GRES), where the referent may correspond to zero, one, or multiple objects, SSP-SAM naturally supports this more flexible setting without additional modifications. Extensive experiments on widely used RES and GRES benchmarks confirm the superiority of our method. Notably, our approach generates segmentation masks of high quality, achieving strong precision even at strict thresholds such as Pr@0.9. Further evaluation on the PhraseCut dataset demonstrates improved performance in open-vocabulary scenarios compared to existing state-of-the-art RES methods. The code and models will be available at https://github.com/WayneTomas/SSP-SAM once the manuscript is accepted.*
