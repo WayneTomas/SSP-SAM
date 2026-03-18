@@ -1,0 +1,23 @@
+# OS / editor
+.DS_Store
+.vscode/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Runtime outputs
+output/
+outputs/
+work_dirs/
+
+# Local checkpoints / logs
+*.pth
+*.pt
+*.ckpt
+*.log
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
