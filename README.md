@@ -9,15 +9,17 @@
 
 <div align="center">
     <a href='https://scholar.google.com/citations?user=D-27eLIAAAAJ&hl=zh-CN' target='_blank'>Wei Tang</a><sup>1</sup>&emsp;
-    <a href='https://scholar.google.com.hk/citations?hl=zh-CN&user=SVQYcYcAAAAJ' target='_blank'>Xuejing Liu</a><sup>2</sup>&emsp;
+    <a href='https://scholar.google.com.hk/citations?hl=zh-CN&user=SVQYcYcAAAAJ' target='_blank'>Xuejing Liu</a><sup>&#x2709,2</sup>&emsp;
     <a href='https://scholar.google.com.hk/citations?user=a3FI8c4AAAAJ&hl=zh-CN' target='_blank'>Yanpeng Sun</a><sup>3</sup>&emsp;
-    <a href='https://imag-njust.net/zechaoli/' target='_blank'>Zechao Li</a><sup>1</sup>
+    <a href='https://imag-njust.net/zechaoli/' target='_blank'>Zechao Li</a><sup>&#x2709,1</sup>
 </div>
 
 <div align="center">
     <sup>1</sup>Nanjing University of Science and Technology;&emsp;
     <sup>2</sup>Institute of Computing Technology, Chinese Academy of Sciences;&emsp;
     <sup>3</sup>NExT++ Lab, National University of Singapore
+    <br>
+    <sup>&#x2709</sup> Corresponding Authors
 </div>
 
 ---
