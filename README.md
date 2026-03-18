@@ -273,7 +273,7 @@ Thanks to the authors for their valuable open-source contributions.
 
 ## 📚 Citation
 
-If you find this repository useful, please cite your SSP-SAM paper.
+If you find this repository useful, please cite our SSP-SAM paper.
 
 ```bibtex
 @article{ssp_sam_tcsvt,
