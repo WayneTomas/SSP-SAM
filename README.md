@@ -41,11 +41,11 @@ Current repo status:
 
 - [X] Release final model checkpoints on Hugging Face
 - [X] Release processed training/evaluation metadata
-- [ ] Release arXiv version
+- [X] Release arXiv version
 
 ## 🔗 Model Zoo & Links
 
-- Paper: `https://arxiv.org/abs/xxxx.xxxxx`
+- Paper: [`SSP-SAM`](https://arxiv.org/pdf/2603.18086)
 - <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="HF" width="16"/> Hugging Face Checkpoints/datasets: `https://huggingface.co/wayneicloud/SSP-SAM`
 
 ## 📁 Project Structure
