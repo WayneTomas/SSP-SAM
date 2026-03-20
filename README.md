@@ -1,7 +1,7 @@
 # SSP-SAM: SAM with Semantic-Spatial Prompt for Referring Expression Segmentation
 
 <div align="center">
-  <a href="https://arxiv.org/abs/xxxx.xxxxx"><img src="https://img.shields.io/badge/arXiv-Coming_Soon-b31b1b?style=flat-square" alt="arXiv"></a>
+  <a href="https://arxiv.org/pdf/2603.18086"><img src="https://img.shields.io/badge/arXiv-Coming_Soon-b31b1b?style=flat-square" alt="arXiv"></a>
   <a href="https://huggingface.co/wayneicloud/SSP-SAM"><img src="https://img.shields.io/badge/HuggingFace-Checkpoint-yellow?style=flat-square" alt="HF Checkpoint"></a>
   <a href="https://huggingface.co/wayneicloud/SSP-SAM"><img src="https://img.shields.io/badge/HuggingFace-Dataset-orange?style=flat-square" alt="HF Dataset"></a>
   <img src="https://img.shields.io/badge/License-Apache--2.0-green?style=flat-square" alt="License">
